@@ -11,11 +11,11 @@ import ListPerson from '../components/person/listPerson';
 import Parametrization from '../components/parametrization/parametrization';
 
 const Routes = () => {
-  const [route, setRoute] = useState([]);
 
   useEffect(() => {
     if (localStorage.getItem('user')) {
       setRoute(JSON.parse(localStorage.getItem('user')).listRoleXPantallas);
+      console.log('mi primer cambio de repositorio');
     }
   }, []);
 
