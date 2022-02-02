@@ -12,7 +12,10 @@ function App() {
     <div className={'App center'}>
       <TitleHolder>
         <Router history={history}>
-		<h1>asd</h1>
+		<h3>asd</h3>
+
+
+    <h2>ERRORES GENERADOS</h2>
           <Row>
             <Col xs="2" sm="2">
               <Row>
