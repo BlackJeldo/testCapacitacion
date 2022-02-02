@@ -1,0 +1,56 @@
+#tableRol {
+    text-align: initial;
+}
+.button-principal{
+    background-color: #ff2f4c;
+    color: white;
+}
+label{
+    padding: 2%;
+}
+th{
+    background-color: white;
+   color: teal;
+   font-size: 1.4rem;
+}
+td{
+    color: teal;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.btn_aprobacion{
+    background-color: transparent;
+    border-color: transparent;
+    color: teal;
+}
+.btn_aprobacion:hover{
+    background-color: transparent;
+    border-color: transparent;
+    color: black;
+    font-weight: 400;
+}
+.ico-save{
+    background-color: #ff2f4c ;
+    color: white;
+    top: 0px;
+    position: relative;
+    margin-left: 100px;
+    border-radius: 4px;
+    height: 37px;
+}
+.ico-pencil{
+    background-color: #ff2f4c ;
+    color: white;
+    top: 0px;
+    position: relative;
+    margin-left: 0px;
+    border-radius: 4px;
+    height: 37px;
+}
+.btn-ico{
+    background-color: transparent;
+}
+.btn-ico:hover{
+    background-color: transparent;
+    border-color: transparent;
+}

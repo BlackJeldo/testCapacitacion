@@ -1,0 +1,14 @@
+#button-focus {
+    background-color: #00ba26;
+    border-color: #00ba26;
+    color: white;
+    min-width: 120px;
+    min-height: 34px;
+    border-radius: 30px;
+}
+
+#button-focus:hover {
+    background-color: #00a722;
+    border-color: #00941e;
+    transition-delay:0.1s;
+}
