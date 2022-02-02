@@ -10,14 +10,8 @@ import TitleHolder from './data/title-data'
 function App() {
   return (
     <div className={'App center'}>
-      <h5>mensaje</h5>
-      textop plano
       <TitleHolder>
         <Router history={history}>
-		<h3>asd</h3>
-
-
-    <h2>ERRORES GENERADOS</h2>
           <Row>
             <Col xs="2" sm="2">
               <Row>
